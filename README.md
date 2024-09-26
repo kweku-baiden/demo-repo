@@ -1,2 +1,2 @@
-# Demo-repo
-this folder is for practice
+# Demo.
+this folder is for practice.
