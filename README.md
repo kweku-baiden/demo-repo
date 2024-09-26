@@ -1,2 +1,2 @@
-# demo-repo
-Practicing git commands
+# Demo-repo
+this folder is for practice
